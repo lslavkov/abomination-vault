@@ -1,0 +1,22 @@
+{
+  "name": "abomination-vault",
+  "title": "Abomination Vault",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "pf2e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "https://cdn.paizo.com/e7fd0eeb-9d7d-006b-7558-1a3e2f7bd8df/0d75c37f-479d-4a01-af67-bd7343daf9f9/PZO90163%20RUINS%20OF%20GAUNTLIGHT%20COVER%20cover%20scene.png?w=1600&fm=jpg",
+  "coreVersion": "9.249",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "3.4.3.10468"
+}

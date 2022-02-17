@@ -1,0 +1,16 @@
+{"_id":"2i1Zf8J9xVBphWSx","name":"Treasures","type":"Actor","parent":"oMv3ccCrxy9CDQuc","sorting":"a","sort":100000,"color":"#bcc17b","flags":{}}
+{"name":"Abomination Vaults - Hands of the Devil","type":"Scene","parent":null,"sorting":"m","sort":0,"flags":{},"_id":"3nXCDg3Fj25DT4Hv"}
+{"name":"AV maps remake - Book 2 by Narchy","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Bbjw4fxZkB7tfFK4"}
+{"name":"Chapter 2:  The Forgotten Dungeon","type":"JournalEntry","parent":"rjx60NAe2H6vqR6U","sorting":"a","sort":0,"color":null,"flags":{},"_id":"DSAozRwZoYs5X1AW"}
+{"_id":"F4IDB6yFgO5hQbek","name":"001 - Abomination Vaults - Hands of the Devil","type":"JournalEntry","parent":null,"sorting":"m","sort":100000,"color":null,"flags":{}}
+{"name":"Chapter 4: Long Dream the Dead","type":"JournalEntry","parent":"rjx60NAe2H6vqR6U","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TDai1uCFES8gfhkz"}
+{"name":"Chapter 2: Experiments in Flesh","type":"JournalEntry","parent":"F4IDB6yFgO5hQbek","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WcK7E8T6AYFcxkxG"}
+{"name":"Chapter 1: A Light in the Fog","type":"JournalEntry","parent":"rjx60NAe2H6vqR6U","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WxMVP4Uqw1xSAWBb"}
+{"_id":"XS2VWKfJm4FIsft6","name":"Otari Gazetter","type":"JournalEntry","parent":"rjx60NAe2H6vqR6U","sorting":"a","sort":0,"color":null,"flags":{}}
+{"name":"Chapter 3: Cult of the Canker","type":"JournalEntry","parent":"rjx60NAe2H6vqR6U","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ZO2M6BGh3yKdj0yW"}
+{"_id":"oMv3ccCrxy9CDQuc","name":"Abomination Vaults - Ruins of Gauntlight","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{}}
+{"name":"Locations of Otari","type":"JournalEntry","parent":"XS2VWKfJm4FIsft6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"qu5RdlwyoBBIeYSy"}
+{"_id":"rjx60NAe2H6vqR6U","name":"000 - Abomination Vaults - Ruins of Gauntlight","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"ssePHAeYVyvTQba1","name":"Abomination Vaults - Hands of the Devil","type":"Actor","parent":null,"sorting":"a","sort":100000,"flags":{}}
+{"name":"Chapter 1: Into the Training Grounds","type":"JournalEntry","parent":"F4IDB6yFgO5hQbek","sorting":"a","sort":0,"color":null,"flags":{},"_id":"tZ9K7dim9esMGNBV"}
+{"name":"AV maps remake - Book 1 by Narchy","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"vUatBU0AdUzxCFB2"}
